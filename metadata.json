@@ -1,0 +1,6 @@
+{
+  "name": "Fettleber: Ratgeber & Praxisleitfaden",
+  "description": "Praktischer 30-Seiten Leitfaden zur Überwachung und Verbesserung Ihrer Lebergesundheit. Risikofaktoren, Laborwerte (ALT, AST, GGT) und mediterrane Ernährung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
